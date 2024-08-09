@@ -13,8 +13,8 @@ Initial stage work on developing Backend to extract Cardano Blockchain data
    - Blockfrost (available as javascript sdk) [Blockfrost javascript sdk](https://blockfrost.dev/sdks-js)
 
 **What is available in this repo right now**
-- Code I used to test Koios api in python
-- Code for javascript Blockfrost api using node.js
+- Code I used to test Koios api in python (improved_script.py, koios_test.py)
+- Code for javascript Blockfrost api using node.js (index.js)
 
 **Dependencies**
 - for python code, to install required api modules use:
