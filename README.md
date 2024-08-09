@@ -6,11 +6,11 @@ Initial stage work on developing Backend to extract Cardano Blockchain data
  **These are the available options of cardano API providers to explore if you want to contribute to backend development**
  - **Locally deployable APIs**
    - cardano-graphql
-   - python-koios
+   - python-koios [Koios API](https://github.com/cardano-apexpool/koios-api-python)
    - cardano explorer api
  - **Public providers**
-   - Bitquery (requires knowledge on graphql)
-   - Blockfrost (available as javascript sdk)
+   - Bitquery (requires knowledge on graphql) [Bitquery Cardano API](https://bitquery.io/blog/cardano-api)
+   - Blockfrost (available as javascript sdk) [Blockfrost javascript sdk](https://blockfrost.dev/sdks-js)
 
 **What is available in this repo right now**
 - Code I used to test Koios api in python
